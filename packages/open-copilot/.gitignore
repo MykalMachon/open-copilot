@@ -1,0 +1,19 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore built output
+dist/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+logs/
+
+# Ignore editor specific files
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
