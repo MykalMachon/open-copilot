@@ -1,6 +1,7 @@
-> [!WARNING]
-> My current development machine doesn't have the dGPU horsepower required for this project
-> While I have been able to get some smaller models running with moderate results, **I'll be holding off on this project until I can get my hands on more VRAM for more capable models.**
+> [!NOTE]
+> **Just go use [Continue.dev](https://docs.continue.dev/intro).** 
+> 
+> They've built exactly what I was hoping to achieve and it all works great out of the box 🎉 
 
 <div align="center">
   <img src="./docs/assets/oc_logo__light.png" width="128px" height="128px" alt="an iconographic fox wearing aviation glasses" />
